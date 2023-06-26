@@ -2,7 +2,7 @@
 
 # Sobre 
 
-Lista de tarefas com cadastro, confirmaçãp de conclusão e exclusão de tarefas.
+Lista de tarefas com cadastro, confirmação de conclusão e exclusão de tarefas.
 
 ## Layout 
 ![Web 1](https://github.com/Antmendes/ToDoList-React/blob/main/public/assets/Captura%20de%20tela%20de%202023-06-26%2010-46-44.png)
